@@ -12,5 +12,5 @@ Ingeniera en Sistemas de Información (PUCE) enfocada en **DevSecOps, Seguridad 
 
 ### 🚀 Repositorios Destacados (Pinned)
 1. **[merkle-audit-system](https://github.com/PaulaOramas/immutable-audit-merkle-system)** — Sistema de integridad y no-repudio de logs con árboles criptográficos y anclaje on-chain.
-2. **[spring-boot-enterprise-api](#)** — API REST modular con Spring Security, JWT, Docker y pipeline CI/CD con SonarQube.
+2. **[spring-boot-enterprise-api](#)** — API REST modular con Spring Security, JWT, Docker
 3. **[devsecops-pipeline-demo](#)** — Pipeline automatizado con escaneo de vulnerabilidades (SAST/SCA), Trivy y compuertas de calidad.
